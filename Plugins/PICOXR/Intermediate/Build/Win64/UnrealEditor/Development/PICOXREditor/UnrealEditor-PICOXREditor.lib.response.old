@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PICOXREditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXREditor\PCH.PICOXREditor.h.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXREditor\Module.PICOXREditor.cpp.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXREditor\Default.rc2.res"
+/OUT:"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXREditor\UnrealEditor-PICOXREditor.lib"

@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PICOXRMotionTracking.cpp.obj": [
+			"PICOXRMotionTracking.init.gen.cpp.obj",
+			"PXR_EyeTrackingComponent.gen.cpp.obj",
+			"PXR_FaceTrackingComponent.gen.cpp.obj",
+			"PXR_MotionTrackingFunctionLibrary.gen.cpp.obj",
+			"PXR_MotionTrackingTypes.gen.cpp.obj",
+			"PXR_EyeTrackingComponent.cpp.obj",
+			"PXR_FaceTrackingComponent.cpp.obj",
+			"PXR_MorphTargetsManager.cpp.obj",
+			"PXR_MotionTracking.cpp.obj",
+			"PXR_MotionTrackingFunctionLibrary.cpp.obj",
+			"PXR_MotionTrackingModule.cpp.obj",
+			"PXR_MotionTrackingTypes.cpp.obj"
+		]
+	}
+}

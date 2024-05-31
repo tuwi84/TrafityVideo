@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PICOXRMRC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\VR_VrCityVideoOptimize\Intermediate\Build\Win64\PICO_51VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRMRC\Module.PICOXRMRC.cpp.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRMRC\Default.rc2.res"
+/OUT:"F:\VR_VrCityVideoOptimize\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRMRC\UnrealEditor-PICOXRMRC.lib"

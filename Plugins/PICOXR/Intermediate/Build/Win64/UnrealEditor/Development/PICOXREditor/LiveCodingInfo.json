@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PICOXREditor.cpp.obj": [
+			"PICOXREditor.init.gen.cpp.obj",
+			"PXR_EditorSettings.gen.cpp.obj",
+			"PXR_Editor.cpp.obj",
+			"PXR_EditorCommands.cpp.obj",
+			"PXR_EditorSettings.cpp.obj",
+			"PXR_EditorStyle.cpp.obj"
+		]
+	}
+}

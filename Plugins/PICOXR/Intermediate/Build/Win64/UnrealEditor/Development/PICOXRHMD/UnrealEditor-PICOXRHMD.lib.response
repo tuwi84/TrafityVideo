@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PICOXRHMD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\VR_VrVideoUpdateWS\Intermediate\Build\Win64\PICO_51VREditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\VR_VrVideoUpdateWS\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRHMD\Module.PICOXRHMD.1_of_2.cpp.obj"
+"F:\VR_VrVideoUpdateWS\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRHMD\Module.PICOXRHMD.2_of_2.cpp.obj"
+"F:\VR_VrVideoUpdateWS\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRHMD\Default.rc2.res"
+/OUT:"F:\VR_VrVideoUpdateWS\Plugins\PICOXR\Intermediate\Build\Win64\UnrealEditor\Development\PICOXRHMD\UnrealEditor-PICOXRHMD.lib"

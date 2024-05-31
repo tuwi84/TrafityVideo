@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PICOXRMR.cpp.obj": [
+			"PICOXRMR.init.gen.cpp.obj",
+			"PXR_AnchorComponent.gen.cpp.obj",
+			"PXR_AsyncAnchorAction.gen.cpp.obj",
+			"PXR_MRFunctionLibrary.gen.cpp.obj",
+			"PXR_MRTypes.gen.cpp.obj",
+			"PXR_AnchorComponent.cpp.obj",
+			"PXR_AnchorManager.cpp.obj",
+			"PXR_AsyncAnchorAction.cpp.obj",
+			"PXR_MRFunctionLibrary.cpp.obj",
+			"PXR_MRModule.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\development\\picoxrhmd\\module.picoxrhmd.1_of_2.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\vr_vrvideoupdatews\\intermediate\\build\\win64\\pico_51vreditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\development\\picoxrhmd\\definitions.picoxrhmd.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\picoxrhmd.init.gen.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_boundarysystem.gen.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\private\\pxr_boundarysystem.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_boundarysystem.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_cubemap.gen.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\public\\pxr_cubemap.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_cubemap.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_eventmanager.gen.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\private\\pxr_eventmanager.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_eventmanager.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_hmdfunctionlibrary.gen.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\public\\pxr_hmdfunctionlibrary.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\array",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\public\\pxr_hmdtypes.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_hmdtypes.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_hmdfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
