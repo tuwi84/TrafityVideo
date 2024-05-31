@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PICOEnterprise.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\VR_VrCityVideoOptimize\Intermediate\Build\Win64\PICO_51VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOEnterprise\Intermediate\Build\Win64\UnrealEditor\Development\PICOEnterprise\Module.PICOEnterprise.1_of_2.cpp.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOEnterprise\Intermediate\Build\Win64\UnrealEditor\Development\PICOEnterprise\Module.PICOEnterprise.2_of_2.cpp.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PICOEnterprise\Intermediate\Build\Win64\UnrealEditor\Development\PICOEnterprise\Default.rc2.res"
+/OUT:"F:\VR_VrCityVideoOptimize\Plugins\PICOEnterprise\Intermediate\Build\Win64\UnrealEditor\Development\PICOEnterprise\UnrealEditor-PICOEnterprise.lib"

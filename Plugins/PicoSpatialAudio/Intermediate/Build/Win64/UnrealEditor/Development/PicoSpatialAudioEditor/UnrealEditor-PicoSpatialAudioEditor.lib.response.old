@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PicoSpatialAudioEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\VR_VrCityVideoOptimize\Intermediate\Build\Win64\PICO_51VREditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UnrealEditor\Development\PicoSpatialAudioEditor\Module.PicoSpatialAudioEditor.cpp.obj"
+"F:\VR_VrCityVideoOptimize\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UnrealEditor\Development\PicoSpatialAudioEditor\Default.rc2.res"
+/OUT:"F:\VR_VrCityVideoOptimize\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UnrealEditor\Development\PicoSpatialAudioEditor\UnrealEditor-PicoSpatialAudioEditor.lib"

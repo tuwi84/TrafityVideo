@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\intermediate\\build\\win64\\unrealeditor\\development\\picoenterprise\\module.picoenterprise.2_of_2.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\vr_vrvideoupdatews\\intermediate\\build\\win64\\pico_51vreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\intermediate\\build\\win64\\unrealeditor\\development\\picoenterprise\\definitions.picoenterprise.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\private\\picoenterprise.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\public\\picoenterprise.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\private\\pxr_interfacewrapper.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\libs\\include\\pxr_enterpriseinterface.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\libs\\include\\pxr_enterprisetypes.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\string",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\private\\pxr_enterpriseapi.cpp",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\public\\pxr_enterpriseapi.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget2d.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\intermediate\\build\\win64\\unrealeditor\\inc\\picoenterprise\\uht\\pxr_enterpriseapi.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\ixrtrackingsystem.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\iidentifiablexrdevice.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\iidentifiablexrdevice.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\ixrinput.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\headmounteddisplay\\public\\xrgestureconfig.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\xrgestureconfig.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\public\\pxr_hmdfunctionlibrary.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\array",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\source\\picoxrhmd\\public\\pxr_hmdtypes.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_hmdtypes.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoxr\\intermediate\\build\\win64\\unrealeditor\\inc\\picoxrhmd\\uht\\pxr_hmdfunctionlibrary.generated.h",
+            "f:\\vr_vrvideoupdatews\\plugins\\picoenterprise\\source\\picoenterprise\\private\\pxr_interfacewrapper.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
